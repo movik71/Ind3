@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(70,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(197,43): warning C4305: -=: усечение из "double" в "GLfloat"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(201,43): warning C4305: =: усечение из "double" в "GLfloat"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(206,43): warning C4305: +=: усечение из "double" в "GLfloat"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(210,42): warning C4305: =: усечение из "double" в "GLfloat"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(213,40): warning C4305: +=: усечение из "double" в "float"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(215,40): warning C4305: +=: усечение из "double" в "float"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(217,40): warning C4305: -=: усечение из "double" в "float"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(219,40): warning C4305: -=: усечение из "double" в "float"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(221,40): warning C4305: -=: усечение из "double" в "float"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(223,40): warning C4305: +=: усечение из "double" в "float"
+D:\Documents\Projects\Добор\Ind3\Ind3\main.cpp(584,45): warning C4244: аргумент: преобразование "GLfloat" в "GLsizei", возможна потеря данных
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 406 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Ind3.vcxproj -> D:\Documents\Projects\Добор\Ind3\x64\Release\Ind3.exe
